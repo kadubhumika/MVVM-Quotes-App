@@ -1,0 +1,28 @@
+# Android specific
+.gradle/
+local.properties
+.idea/
+*.iml
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Jetpack Compose preview files
+*.pb
+*.xml.tag
+*.xml.indesign
+*.xml.src
+
+# Log files
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Kotlin
+*.class
+
+# Others
+*.keystore
